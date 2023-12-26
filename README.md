@@ -1,7 +1,10 @@
-# You can check the game here 
+# Pokemon game
 
-https://extraordinary-platypus-7bb7f7.netlify.app/
 
+It's a simple app built in Vue 3, a simple Pokemon game enjoy it!!!
+
+
+You can test the game here: https://extraordinary-platypus-7bb7f7.netlify.app/
 
 
 Example
