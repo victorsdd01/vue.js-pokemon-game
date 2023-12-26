@@ -1,24 +1,17 @@
-# seccion-7-pokemon-game
+# You can check the game here 
 
-## Project setup
-```
-npm install
-```
+https://extraordinary-platypus-7bb7f7.netlify.app/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your unit tests
-```
-npm run test:unit
-```
+Example
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Pokemon-game](https://github.com/victorsdd01/vue.js-pokemon-game/assets/61807238/f28e6913-382d-492e-8468-0611bda7d2e0)
+
+
+
+
+
+
+
+
